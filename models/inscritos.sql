@@ -1,0 +1,1 @@
+SELECT * FROM `dbt-demo-386301.schema.inscritos`
